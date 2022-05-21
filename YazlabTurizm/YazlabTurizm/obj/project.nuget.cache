@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RNiqNBW0KdB3eKyFK3qUkdUDjULHR0evFA6a7nIj6rLdbBeptJ2fEVpdB+bRyscnT4rv6AlH2ZRUnxhC+BFkQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projeler\\Yazlab2.2\\YazlabTurizm\\YazlabTurizm\\YazlabTurizm\\YazlabTurizm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
